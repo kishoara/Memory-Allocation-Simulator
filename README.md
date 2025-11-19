@@ -31,3 +31,5 @@ python3 memory_simulator.py
 - **Worst Fit:** largest suitable block  
 
 ## 📌 Example Output
+
+<img width="577" height="427" alt="Screenshot from 2025-11-19 02-52-45" src="https://github.com/user-attachments/assets/cac45e90-8965-4b10-a52d-8981b02ceeda" />
